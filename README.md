@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hello and welcome!
 
-My name is Liz and I'm a developing software developer. Though I've just started my education journey, I'm excited to dive in!
+My name is Liz and I'm a developing software developer. 
 
 When I'm not staring at screens or talking to rubber ducks, you can find me playing with my dog, going on hikes, and talking to actual living ducks.
 
